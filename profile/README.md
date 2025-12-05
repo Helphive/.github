@@ -14,7 +14,7 @@ Helphive simplifies the process of discovering and booking reliable services. Th
 The official mobile application for Helphive, developed using **React Native**.
 
 - **Platform**: Android  
-- **Google Play Store**: [Download Helphive](https://play.google.com/store/apps/details?id=com.helphivenow.app)
+- **Google Play Store**: [Download Helphive](https://drive.google.com/file/d/1Q3tWgW9ZcbC62uUw6ghG1c3p1t4XWYDZ/view)
 - **Features**:
   - User-friendly interface for service browsing and booking
   - Real-time notifications via OneSignal
