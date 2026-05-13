@@ -1,0 +1,46 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" fill="#101828"/>
+  <rect x="0" y="0" width="1280" height="360" fill="url(#warmGlow)" opacity="0.92"/>
+  <path d="M0 268C116 221 207 235 326 262C470 295 587 303 741 252C911 196 1039 171 1280 230V360H0V268Z" fill="#FF5740" opacity="0.95"/>
+  <path d="M0 300C170 248 314 271 458 306C613 344 778 336 932 284C1055 243 1160 232 1280 259V360H0V300Z" fill="#FEC84B" opacity="0.88"/>
+  <path d="M828 56H1130C1154.3 56 1174 75.6995 1174 100V231C1174 255.301 1154.3 275 1130 275H828C803.699 275 784 255.301 784 231V100C784 75.6995 803.699 56 828 56Z" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.18"/>
+  <path d="M858 111H1098" stroke="white" stroke-opacity="0.7" stroke-width="10" stroke-linecap="round"/>
+  <path d="M858 154H1034" stroke="white" stroke-opacity="0.4" stroke-width="10" stroke-linecap="round"/>
+  <path d="M858 197H1066" stroke="white" stroke-opacity="0.4" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="1122" cy="109" r="18" fill="#71BF74"/>
+  <path d="M1113 109.5L1119.5 116L1132 101" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#softShadow)">
+    <rect x="88" y="82" width="96" height="96" rx="22" fill="#FF5740"/>
+    <path d="M118 137C118 112.699 137.699 93 162 93H166V117H162C150.954 117 142 125.954 142 137V166H118V137Z" fill="white"/>
+    <path d="M154 121H178V166H154V121Z" fill="white"/>
+    <path d="M118 176H178V200H118V176Z" fill="white"/>
+  </g>
+  <text x="208" y="130" fill="white" font-family="Plus Jakarta Sans, Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="0">HelpHive</text>
+  <text x="211" y="177" fill="#EAECF0" font-family="Plus Jakarta Sans, Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Hospitality staffing, booking, and provider operations</text>
+  <g font-family="Plus Jakarta Sans, Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    <rect x="210" y="218" width="132" height="42" rx="8" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.18"/>
+    <text x="235" y="245" fill="white">Android</text>
+    <rect x="356" y="218" width="100" height="42" rx="8" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.18"/>
+    <text x="388" y="245" fill="white">Web</text>
+    <rect x="470" y="218" width="110" height="42" rx="8" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.18"/>
+    <text x="506" y="245" fill="white">Admin</text>
+    <rect x="594" y="218" width="90" height="42" rx="8" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.18"/>
+    <text x="625" y="245" fill="white">API</text>
+  </g>
+  <defs>
+    <linearGradient id="warmGlow" x1="117" y1="0" x2="931" y2="421" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D2939"/>
+      <stop offset="0.48" stop-color="#2A2F4F"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <filter id="softShadow" x="64" y="62" width="144" height="158" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="10"/>
+      <feGaussianBlur stdDeviation="12"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+  </defs>
+</svg>
