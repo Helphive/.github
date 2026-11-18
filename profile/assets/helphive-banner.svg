@@ -27,7 +27,7 @@
     <circle cx="38" cy="39" r="13" fill="#71BF74"/>
     <path d="M31 39.5L36.5 45L47 33" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="64" y="46" fill="#111827" font-family="Plus Jakarta Sans, Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Live Platform</text>
-    <text x="24" y="84" fill="#667085" font-family="Plus Jakarta Sans, Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">helphive.projects.himaiz.com</text>
+    <text x="24" y="84" fill="#667085" font-family="Plus Jakarta Sans, Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">helphive.himaiz.com</text>
   </g>
   <defs>
     <filter id="shadow" x="42" y="58" width="298" height="294" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

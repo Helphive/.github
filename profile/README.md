@@ -5,15 +5,15 @@
 HelpHive connects hospitality teams with trusted service providers for room attendant, public area attendant, and linen porter work.
 
 <p>
-  <a href="https://github.com/Helphive/helphive-app/releases/download/production-07/helphive-universal.apk"><img alt="Download Android APK" src="https://img.shields.io/badge/Download_Android_APK-FF5740?style=for-the-badge&logo=android&logoColor=white"></a>
-  <a href="https://github.com/Helphive/helphive-app/releases/tag/production-07"><img alt="Release Notes" src="https://img.shields.io/badge/Release_Notes-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Helphive/helphive-app/releases/latest/download/helphive-universal.apk"><img alt="Download Android APK" src="https://img.shields.io/badge/Download_Android_APK-FF5740?style=for-the-badge&logo=android&logoColor=white"></a>
+  <a href="https://github.com/Helphive/helphive-app/releases/latest"><img alt="Release Notes" src="https://img.shields.io/badge/Release_Notes-111827?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## Download Android App
 
 Download the latest Android APK directly from GitHub:
 
-**[Download helphive-universal.apk](https://github.com/Helphive/helphive-app/releases/download/production-07/helphive-universal.apk)**
+**[Download helphive-universal.apk](https://github.com/Helphive/helphive-app/releases/latest/download/helphive-universal.apk)**
 
 Install steps:
 
@@ -25,9 +25,9 @@ Install steps:
 ## Live Platform
 
 <p>
-  <a href="https://helphive.projects.himaiz.com"><img alt="Web App" src="https://img.shields.io/badge/Web_App-FF5740?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://admin.helphive.projects.himaiz.com"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin_Dashboard-111827?style=for-the-badge&logo=mui&logoColor=white"></a>
-  <a href="https://api.helphive.projects.himaiz.com"><img alt="Backend API" src="https://img.shields.io/badge/Backend_API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"></a>
+  <a href="https://helphive.himaiz.com"><img alt="Web App" src="https://img.shields.io/badge/Web_App-FF5740?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://admin.helphive.himaiz.com"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin_Dashboard-111827?style=for-the-badge&logo=mui&logoColor=white"></a>
+  <a href="https://api.helphive.himaiz.com"><img alt="Backend API" src="https://img.shields.io/badge/Backend_API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"></a>
 </p>
 
 ## Repositories
@@ -44,4 +44,4 @@ Install steps:
 - [helphive-admin](https://github.com/Helphive/helphive-admin) - Admin dashboard.
 - [helphive-backend](https://github.com/Helphive/helphive-backend) - Node.js/Express API.
 
-For support, contact support@helphive.projects.himaiz.com.
+For support, contact support@helphive.himaiz.com.
