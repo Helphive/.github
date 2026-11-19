@@ -9,6 +9,8 @@ HelpHive connects hospitality teams with trusted service providers for room atte
   <a href="https://github.com/Helphive/helphive-app/releases/latest"><img alt="Release Notes" src="https://img.shields.io/badge/Release_Notes-111827?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+![HelpHive app: book a service, booking details, chat, provider home, orders and earnings](./assets/app-screens.png)
+
 ## Download Android App
 
 Download the latest Android APK directly from GitHub:
